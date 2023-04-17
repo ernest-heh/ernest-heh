@@ -21,7 +21,7 @@
 [![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=FFFFFF)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](#)&nbsp;
 [![Stimulus](https://img.shields.io/badge/-Stimulus-77E8B9?style=flat-square&logo=stimulus&logoColor=000000)](#)\
-[![PostgreSQL](https://img.shields.io/badge/-PostgresQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)](#)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)](#)&nbsp;
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=FFFFFF)](#)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)](#)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF)](#)&nbsp;
