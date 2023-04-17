@@ -18,7 +18,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=FFFFFF)](#)&nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)](#)\
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=FFFFFF)](#)&nbsp;
-[![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=FFFFFF)](#)&nbsp;
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=FFFFFF)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](#)&nbsp;
 [![Stimulus](https://img.shields.io/badge/-Stimulus-77E8B9?style=flat-square&logo=stimulus&logoColor=000000)](#)\
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)](#)&nbsp;
