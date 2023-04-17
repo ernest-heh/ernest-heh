@@ -1,11 +1,11 @@
 
 
 ## Hey there, I'm Ernest  <img src="https://user-images.githubusercontent.com/105141510/232433220-41b36b16-dea9-469d-b7a9-c322703a5f6f.PNG" height="30px">
-A Frontend Developer with a Passion for Design
+`A Frontend Developer with a Passion for Design`
 
 
 
-### Currently learning: 
+### Currently learning:
 
 ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)&nbsp;
@@ -19,7 +19,8 @@ A Frontend Developer with a Passion for Design
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)\
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=FFFFFF)&nbsp;
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=FFFFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)&nbsp;
+![Stimulus](https://img.shields.io/badge/-Stimulus-77E8B9?style=flat-square&logo=stimulus&logoColor=000000)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgresQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)&nbsp;
