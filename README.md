@@ -14,6 +14,7 @@ A Frontend Developer with a Passion for Design
 ### Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=FFFFFF)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)\
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=FFFFFF)&nbsp;
