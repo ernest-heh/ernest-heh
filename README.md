@@ -7,7 +7,7 @@
 
 [![ReactJS](https://img.shields.io/badge/-React-222222?style=flat-square&logo=react&logoColor=61DAFB)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat-square&logo=typescript&logoColor=3178C6)](#)&nbsp;
-[![NextJS](https://img.shields.io/badge/-NextJS-222222?style=flat-square&logo=typescript&logoColor=3178C6)](#)&nbsp;
+[![NextJS](https://img.shields.io/badge/-NextJS-222222?style=flat-square&logo=nextjs&logoColor=3178C6)](#)&nbsp;
 
 
 ### Tech Stack:
