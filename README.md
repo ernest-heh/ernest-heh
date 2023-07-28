@@ -14,12 +14,12 @@
 [![CSS](https://img.shields.io/badge/-CSS-222222?style=flat-square&logo=CSS3&logoColor=1572B6)](#)&nbsp;
 [![Sass](https://img.shields.io/badge/-Sass-222222?style=flat-square&logo=sass&logoColor=CC6699)](#)&nbsp;
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat-square&logo=bootstrap&logoColor=6F2BF6)](#)&nbsp;
-[![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=flat-square&logo=tailwindcss&logoColor=06B6D4)](#)\
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=flat-square&logo=tailwindcss&logoColor=06B6D4)](#)&nbsp;
 [![Ruby](https://img.shields.io/badge/-Ruby-222222?style=flat-square&logo=ruby&logoColor=CC342D)](#)&nbsp;
 [![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-222222?style=flat-square&logo=rubyonrails&logoColor=CC0000)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E)](#)&nbsp;
 [![Node.js](https://img.shields.io/badge/-Node%2Ejs-222222?style=flat-square&logo=nodedotjs&logoColor=339933)](#)&nbsp;
-[![Stimulus](https://img.shields.io/badge/-Stimulus-222222?style=flat-square&logo=stimulus&logoColor=77E8B9)](#)\
+[![Stimulus](https://img.shields.io/badge/-Stimulus-222222?style=flat-square&logo=stimulus&logoColor=77E8B9)](#)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=689BC6)](#)&nbsp;
 [![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku&logoColor=8A4DD1)](#)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-222222?style=flat-square&logo=git&logoColor=F05032)](#)&nbsp;
