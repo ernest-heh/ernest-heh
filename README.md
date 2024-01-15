@@ -8,7 +8,7 @@
 [![ReactJS](https://img.shields.io/badge/-React-222222?style=flat-square&logo=react&logoColor=61DAFB)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat-square&logo=typescript&logoColor=3178C6)](#)&nbsp;
 [![NextJS](https://img.shields.io/badge/-NextJS-222222?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)](#)&nbsp;
-[![Astro](https://img.shields.io/badge/-Astro-222222?style=flat-square&logo=astro&logoColor=FFFFFF)](#)&nbsp;
+[![Astro](https://img.shields.io/badge/-Astro-222222?style=flat-square&logo=astro&logoColor=BC52EE)](#)&nbsp;
 
 
 ### Tech Stack:
