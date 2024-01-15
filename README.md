@@ -1,5 +1,5 @@
 ## Hey there, I'm Ernest  <img src="https://user-images.githubusercontent.com/105141510/232433220-41b36b16-dea9-469d-b7a9-c322703a5f6f.PNG" height="30px">
-`A Frontend Developer with a Passion for Design`
+`A Frontend Developer with a keen eye for Design`
 
 
 
